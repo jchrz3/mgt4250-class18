@@ -9,4 +9,4 @@ These packages need to be installed with pip.
 
 Elon University is _located_ in **Elon**.
 
-[LINK](elon.edu)
+[LINK](https://elon.edu)
