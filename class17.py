@@ -9,7 +9,7 @@ st.title("Class 17")
 st.header("Data")
 st.write("This section is for showing data structure")
 
-df = pd.read_excel('./data/sample_-_superstore.xls')
+df = pd.read_excel('sample_-_superstore.xls')
 cond = df["Country/Region"]=="United States"
 df = df[cond]
 
